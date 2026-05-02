@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Linguagens
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,vscode" />
