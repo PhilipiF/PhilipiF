@@ -1,4 +1,10 @@
+<!-- BANNER TOPO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Philipi%20Ferreira%20|%20Computer%20Science%20Student&fontSize=35&fontColor=ffffff"/>
+
+<!-- STATUS -->
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internship-blue?style=for-the-badge"/>
+</p>
 
 <!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
 <h1 align="center">
