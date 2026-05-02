@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Philipi%20Ferreira%20|%20Computer%20Science%20Student&fontSize=35&fontColor=ffffff"/>
+
 <!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;React,+Python,+APIs+e+Banco+de+Dados" />
