@@ -23,6 +23,19 @@
 
 ---
 
+## 🧰 Ferramentas que utilizo
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git" />
+</p>
+
+- VS Code — desenvolvimento e organização de projetos
+- Git — controle de versão
+- pgAdmin — administração de banco PostgreSQL
+- Codex — suporte com IA para programação e aprendizado técnico
+
+---
+
 ## 🚧 Projetos em andamento
 
 🔹 Páginas web responsivas  
