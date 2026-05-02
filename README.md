@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=240&section=header&text=Open%20to%20Internship&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
 <h1 align="center">
