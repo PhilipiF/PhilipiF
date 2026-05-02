@@ -1,83 +1,85 @@
-# 👋 Olá, eu sou Philipi Ferreira
-
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor em formação (Frontend + Backend)  
-🚀 Focado na construção de projetos reais e aprendizado contínuo  
+<!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;Aprendendo+React,+Python+e+APIs" />
+</h1>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de Ciência da Computação com foco no desenvolvimento web moderno e integração de sistemas.
+🎓 Estudante de Ciência da Computação  
+💻 Experiência com HTML, CSS, JavaScript, React e Python  
+🔌 Trabalhando com integrações de APIs  
+🗄️ Estudando Banco de Dados atualmente  
+🚀 Desenvolvendo projetos web práticos para evolução contínua  
 
-Tenho experiência prática com:
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Python
-- Integração com APIs
-
-Atualmente estou estudando:
-
-- Banco de Dados
-- Modelagem de sistemas
-- Desenvolvimento Full Stack
-
-Meu objetivo é evoluir continuamente como desenvolvedor e construir aplicações completas e escaláveis.
+Meu foco é aprender desenvolvimento completo (Full Stack) e construir aplicações reais.
 
 ---
 
 ## 🚧 Projetos em andamento
 
-Atualmente desenvolvendo:
-
 🔹 Páginas web responsivas  
-🔹 Aplicações utilizando React  
+🔹 Aplicações com React  
 🔹 Integrações com APIs externas  
 🔹 Projetos práticos em Python  
-🔹 Sistemas conectados a banco de dados  
+🔹 Sistemas com banco de dados  
 
-Novos projetos serão publicados em breve.
+Novos projetos serão publicados em breve 📌
 
 ---
 
 ## 🛠️ Tecnologias
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![API](https://img.shields.io/badge/API-Integration-blue?style=for-the-badge)
-
----
-
-## 🎯 Objetivos atuais
-
-- Evoluir no desenvolvimento com React
-- Aprender backend com Python
-- Dominar banco de dados
-- Criar aplicações completas com APIs
-- Construir portfólio técnico sólido
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,vscode" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhilipiF&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipiF&layout=compact&theme=tokyonight)
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PhilipiF&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipiF&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 👀 Visualizações do perfil
+## 🔥 Sequência de contribuições (streak)
 
-![Profile views](https://komarev.com/ghpvc/?username=PhilipiF&color=blue&style=for-the-badge)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=PhilipiF&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Gráfico de atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhilipiF&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🎯 Objetivos atuais
+
+📌 Aprender desenvolvimento Full Stack  
+📌 Evoluir em React  
+📌 Dominar Python no backend  
+📌 Trabalhar com banco de dados  
+📌 Construir portfólio profissional  
+
+---
+
+## 👀 Visitantes do perfil
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=PhilipiF&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
 ## 📍 Localização
 
-Minas Gerais - Brasil 🇧🇷
+Minas Gerais — Brasil 🇧🇷
