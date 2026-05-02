@@ -1,6 +1,6 @@
 <!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;Aprendendo+React,+Python+e+APIs" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;React,+Python,+APIs+e+Banco+de+Dados" />
 </h1>
 
 ---
@@ -8,12 +8,18 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Estudante de Ciência da Computação  
-💻 Experiência com HTML, CSS, JavaScript, React e Python  
-🔌 Trabalhando com integrações de APIs  
-🗄️ Estudando Banco de Dados atualmente  
-🚀 Desenvolvendo projetos web práticos para evolução contínua  
+💻 Estudando HTML, CSS, JavaScript, React e Python  
+🔌 Desenvolvendo integrações com APIs  
+🗄️ Aprendendo Banco de Dados atualmente  
+🚀 Focado em aprender, desenvolver e criar projetos reais  
 
-Meu foco é aprender desenvolvimento completo (Full Stack) e construir aplicações reais.
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,vscode" />
+</p>
 
 ---
 
@@ -23,63 +29,37 @@ Meu foco é aprender desenvolvimento completo (Full Stack) e construir aplicaç�
 🔹 Aplicações com React  
 🔹 Integrações com APIs externas  
 🔹 Projetos práticos em Python  
-🔹 Sistemas com banco de dados  
-
-Novos projetos serão publicados em breve 📌
+🔹 Sistemas conectados a banco de dados  
 
 ---
 
-## 🛠️ Tecnologias
+## 🗺️ Roadmap de estudos e projetos
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,vscode" />
-</p>
+```mermaid
+timeline
+    title Minha evolução como desenvolvedor
 
----
+    HTML e CSS : Estruturação de páginas
+               : Estilização responsiva
 
-## 📊 Estatísticas do GitHub
+    JavaScript : Interatividade
+               : Manipulação do DOM
 
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=PhilipiF&show_icons=true&theme=tokyonight"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipiF&layout=compact&theme=tokyonight"/>
-</p>
+    React : Componentes
+          : Estados e props
+          : Projetos web modernos
 
----
+    Python : Lógica de programação
+           : Scripts e automações
+           : Backend em evolução
 
-## 🔥 Sequência de contribuições (streak)
+    APIs : Consumo de APIs externas
+         : Integrações entre sistemas
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PhilipiF&theme=tokyonight"/>
-</p>
+    Banco de Dados : Modelagem
+                   : SQL
+                   : Conexão com aplicações
 
----
-
-## 📈 Gráfico de atividade
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PhilipiF&theme=tokyo-night"/>
-</p>
-
----
-
-## 🎯 Objetivos atuais
-
-📌 Aprender desenvolvimento Full Stack  
-📌 Evoluir em React  
-📌 Dominar Python no backend  
-📌 Trabalhar com banco de dados  
-📌 Construir portfólio profissional  
-
----
-
-## 👀 Visitantes do perfil
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=PhilipiF&style=for-the-badge&color=blue"/>
-</p>
-
----
-
-## 📍 Localização
-
-Minas Gerais — Brasil 🇧🇷
+    Próximos passos : Projetos Full Stack
+                    : Portfólio profissional
+                    : Aplicações completas
