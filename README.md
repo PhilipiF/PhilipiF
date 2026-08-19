@@ -1,7 +1,7 @@
 
 <!-- ANIMAÇÃO DE TEXTO DIGITANDO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+Full+Stack+em+formação;React,+Python,+APIs+e+Banco+de+Dados" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=32&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Philipi+Ferreira;Estudante+de+Ciência+da+Computação;Desenvolvedor+em+formação;React,+Python,+APIs+e+Banco+de+Dados" />
 </h1>
 
 ---
